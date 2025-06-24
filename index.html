@@ -1,7 +1,119 @@
 <!DOCTYPE html>
-<html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IEAT</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+  <header>
+    <div class="header-container">
+      <div class="logo-bar">
+        <a href="{{ url_for('index') }}">
+        <img src="{{ url_for('static', filename='images/logo-th.png') }}" alt="Logo" style="cursor: pointer;">
+        </a>
+        <div class="title">
+          <p>การนิคมอุตสาหกรรมแห่งประเทศไทย</p>
+          <p>Industrial Estate Authority of Thailand</p>
+        </div>
+      </div>
+      <nav>
+        <a href="#">เกี่ยวกับ กนอ.</a>
+        <a href="#">ข่าวสารจาก กนอ.</a>
+        <a href="#">ข่าวจัดซื้อจัดจ้าง</a>
+        <a href="#">กฎหมายและคู่มือ</a>
+      </nav>
+    </div>
+  </header>
+
+  <div id="filters">
+    <div class="filter-inner">
+      <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search by estate name..." list="estateSuggestions" onkeyup="filterEstates()">
+          <datalist id="estateSuggestions">
+            {% for estate in estates %}
+              <option value="{{ estate.name }}">
+            {% endfor %}
+          </datalist>
+      </div>
+      <div class="dropdown-container">
+        <select id="provinceFilter" onchange="filterEstates()">
+          <option value="">📍 เลือกจังหวัด</option>
+          {% set provinces = estates | map(attribute='province') | unique %}
+          {% for province in provinces %}
+            <option value="{{ province }}">{{ province }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="heading-container">
+    <h1>รายชื่อนิคมอุตสาหกรรม</h1>
+  </div>
+
+  <p id="resultCount" style="text-align:center; font-size: 16px; font-weight: bold; margin-bottom: 15px;">
+    แสดง {{ estates|length }} จากทั้งหมด {{ estates|length }} รายการ
+  </p>
+
+
+  <ul id="estateList">
+    {% for estate in estates %}
+    <li class="estate-item" data-province="{{ estate.province }}">
+      <a href="{{ url_for('estate_detail', code=estate.code) }}" class="estate-link">
+        <div class="estate-header">
+          <div class="estate-code">{{ estate.code }}</div>
+          <div class="estate-name">{{ estate.name }} ({{ estate.name_en }})</div>
+        </div>
+        <small>
+          🏷️ ชื่อย่อ: {{ estate.abbrv_th }} ({{ estate.abbrv_eng }})<br>
+          📍 จังหวัด: {{ estate.province }}
+        </small>
+      </a>
+    </li>
+
+
+    {% endfor %}
+  </ul>
+
+  <script>
+    function filterEstates() {
+    const searchValue = document.getElementById("searchInput").value.toLowerCase();
+    const provinceSelected = document.getElementById("provinceFilter").value.toLowerCase();
+    const items = document.querySelectorAll("#estateList li.estate-item");
+
+    let count = 0;
+
+    items.forEach(item => {
+      const text = item.textContent.toLowerCase();
+      const province = item.getAttribute("data-province").toLowerCase();
+      const matchesText = text.includes(searchValue);
+      const matchesProvince = (provinceSelected === "" || province === provinceSelected);
+
+      if (matchesText && matchesProvince) {
+        item.style.display = "";
+        count++;
+      } else {
+        item.style.display = "none";
+      }
+    });
+
+    document.getElementById("resultCount").textContent =
+  'แสดง ' + count + ' จากทั้งหมด ' + items.length + ' รายการ';
+
+  }
+
+
+</script>
+  <footer>
+    <p>&copy; 2025 Industrial Estate Authority of Thailand</p>
+  </footer>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    filterEstates(); // Call once on page load to update count and show all estates
+  });
+</script>
+
 </body>
 </html>
