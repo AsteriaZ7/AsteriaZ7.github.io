@@ -1,0 +1,4755 @@
+[
+  {
+    "t_industry_id": "3",
+    "t_industry_no": "1",
+    "t_industry_text": "1",
+    "rpt_id": "0",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "4",
+    "t_industry_no": "1",
+    "t_industry_text": "1",
+    "rpt_id": "0",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "1",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมการบินและอวกาศ",
+    "rpt_id": "1",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "2",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมขนส่งและบริการ",
+    "rpt_id": "1",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "5",
+    "t_industry_no": "1",
+    "t_industry_text": "1",
+    "rpt_id": "1",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "6",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมโรงงานเคลือบแก้ว",
+    "rpt_id": "1",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "11",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมโรงงานเคลือบแก้ว",
+    "rpt_id": "1",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "65",
+    "t_industry_no": "1",
+    "t_industry_text": "เกษตรและผลิตผลจากการเกษตร",
+    "rpt_id": "2",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "66",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมเบา",
+    "rpt_id": "2",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "67",
+    "t_industry_no": "3",
+    "t_industry_text": "ผลิตภัณฑ์พลาสติก/ผลิตภัณฑ์เคมี/ไบโอพลาสติก",
+    "rpt_id": "2",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "68",
+    "t_industry_no": "3",
+    "t_industry_text": "ผลิตภัณฑ์พลาสติก/ผลิตภัณฑ์เคมี/ไบโอพลาสติก",
+    "rpt_id": "2",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "69",
+    "t_industry_no": "4",
+    "t_industry_text": "การผลิตชิ้นส่วนอุปกรณ์",
+    "rpt_id": "2",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "70",
+    "t_industry_no": "5",
+    "t_industry_text": "อาหารสัตว์หรือส่วนผสมอาหารสัตว์",
+    "rpt_id": "2",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "71",
+    "t_industry_no": "5",
+    "t_industry_text": "อาหารสัตว์หรือส่วนผสมอาหารสัตว์",
+    "rpt_id": "2",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "72",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มพลังงานไฟฟ้าทางเลือก",
+    "rpt_id": "2",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "73",
+    "t_industry_no": "7",
+    "t_industry_text": "โรงงานผลิตหม้อเก็บพลังงานไฟฟ้า หรือหม้อกำเนิดพลังงานไฟฟ้าชนิดแห้ง",
+    "rpt_id": "2",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "7",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการแพทย์ครบวงจร",
+    "rpt_id": "3",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "8",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการบินและอวกาศ",
+    "rpt_id": "3",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "9",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมขนส่งและบริการ",
+    "rpt_id": "3",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "10",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมวิจัยและพัฒนา",
+    "rpt_id": "3",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "23",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการเกษตร ประมง และกิจการที่เกี่ยวข้อง",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "24",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "25",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมสิ่งทอ เครื่องนุ่งห่ม และเครื่องหนัง",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "26",
+    "t_industry_no": "10",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการผลิตชิ้นส่วนอุปกรณ์",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "27",
+    "t_industry_no": "11",
+    "t_industry_text": "กลุ่มกิจการขนส่งและกระจายสินค้า",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "28",
+    "t_industry_no": "12",
+    "t_industry_text": "กลุ่มอุตสาหกรรมบริการ",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "85",
+    "t_industry_no": "9",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเคมีภัณฑ์พลาสติกและไบโอพลาสติก",
+    "rpt_id": "4",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "86",
+    "t_industry_no": "13",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตเครื่องมือแพทย์และเครื่องมือวิทยาศาสตร์",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "87",
+    "t_industry_no": "9",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเคมีภัณฑ์พลาสติกและไบโอพลาสติก",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "88",
+    "t_industry_no": "4",
+    "t_industry_text": "กิจการโลจิสติกส์",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "89",
+    "t_industry_no": "6",
+    "t_industry_text": "กิจการเพื่อสนับสนุนการท่องเที่ยว",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "90",
+    "t_industry_no": "5",
+    "t_industry_text": "นิคมหรือเขตอุตสาหกรรม",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "91",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มเกษตรกรรม ผลิตผลจากการเกษตร และผลิตภัณฑ์จากไม้ยางพารา",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "92",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเซรามิกส์",
+    "rpt_id": "4",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "12",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมยานยนต์แห่งอนาคต",
+    "rpt_id": "7",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "13",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์อัจฉริยะ",
+    "rpt_id": "7",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "21",
+    "t_industry_no": "1",
+    "t_industry_text": "test",
+    "rpt_id": "8",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "14",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเกษตรและผลิตผลจากการเกษตร",
+    "rpt_id": "9",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "15",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "9",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "16",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์และพลาสติก",
+    "rpt_id": "9",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "17",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการผลิตชิ้นส่วนอุปกรณ์",
+    "rpt_id": "9",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "18",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มกิจการขนส่งและกระจายสินค้า",
+    "rpt_id": "9",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "19",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเกษตรและผลิตผลจากการเกษตร1",
+    "rpt_id": "9",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "20",
+    "t_industry_no": "1",
+    "t_industry_text": "A1111",
+    "rpt_id": "12",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "56",
+    "t_industry_no": "1",
+    "t_industry_text": "test",
+    "rpt_id": "35",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "36",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเกษตรและผลิตผลจากการเกษตร",
+    "rpt_id": "39",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "47",
+    "t_industry_no": "1",
+    "t_industry_text": "กำหนดให้เป็นโรงงานที่ไม่มีน้ำเสียที่มีองค์ประกอบของสารพิษโลหะหนักวัสดุมีพิษที่ใช้ในการเกษตรและสารเคมีอื่นๆที่เป็นพิษ",
+    "rpt_id": "45",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "48",
+    "t_industry_no": "1",
+    "t_industry_text": "โครงการพื้นที่ส่วนขยายจะเป็นประเภทอุตสาหกรรมเบา หรือเป็นโรงงานอุตสาหกรรมที่กระบวนการผลิตไม่มีโลหะหนักปนเปื้อนในน้ำเสียและไม่เป็นอุตสาหกรรมที่มีการใช้น้ำมากกว่าเกณฑ์ที่ทาง กนอ. กำหนด ตัวอย่าง เช่น อุตสาหกรรมสิ่งถักหรือสิ่งทอ อุตสาหกรรมเครื่องแต่งกาย อุตสาหกรรมแปรรูปไม้และผลิตภัณฑ์จากไม้ อุตสาหกรรมผลิตภัณฑ์กระดาษ อุตสาหกรรมผลิตภัณฑ์พลาสติก คลังสินค้า ศูนย์กระจายสินค้า",
+    "rpt_id": "46",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "44",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมการบินและอวกาศ",
+    "rpt_id": "47",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "49",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมเบา ยกตัวอย่าง เช่น อุตสาหกรรมสิ่งถักและสิ่งทอ อุตสาหกรรมเครื่องแต่งกาย อุตสาหกรรมแปรรูปไม้และผลิตภัณฑ์จากไม้ อุตสาหกรรมผลิตภัณฑ์กระดาษ อุตสาหกรรมผลิตภัณฑ์พลาสติก คลังสินค้า ศูนย์กระจายสินค้า",
+    "rpt_id": "47",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "50",
+    "t_industry_no": "2",
+    "t_industry_text": "โรงไฟฟ้าที่ใช้ก๊าซธรรมชาติเป็นเชื้อเพลิง จำนวน 1 โรง มีกำลังการผลิตไฟฟ้าประมาณ 24 เมกะวัตต์",
+    "rpt_id": "47",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "51",
+    "t_industry_no": "3",
+    "t_industry_text": "โรงงานที่จะมาตั้งใหม่ตามกลุ่มอุตสาหกรรมเป้าหมายข้างต้นจะต้องไม่เป็นโรงงานที่กระบวนการผลิตไม่มีโลหะหนักปนเปื้อนในน้ำเสียและไม่เป็นอุตสาหกรรมที่มีการใช้น้ำมากกว่าเกณฑ์ที่ กนอ. กำหนด",
+    "rpt_id": "47",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "64",
+    "t_industry_no": "4",
+    "t_industry_text": "ทดสอบ",
+    "rpt_id": "47",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "45",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมเบา ยกตัวอย่าง เช่น อุตสาหกรรมสิ่งถักและสิ่งทอ อุตสาหกรรมเครื่องแต่งกาย อุตสาหกรรมแปรรูปไม้และผลิตภัณฑ์จากไม้ อุตสาหกรรมผลิตภัณฑ์กระดาษ อุตสาหกรรมผลิตภัณฑ์พลาสติก คลังสินค้า ศูนย์กระจายสินค้า",
+    "rpt_id": "48",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "46",
+    "t_industry_no": "2",
+    "t_industry_text": "โรงงานไฟฟ้าที่ใช้ก๊าซธรรมชาติเป็นเชื้อเพลิง จำนวน 1 โรงมีกำลังการผลิตไฟฟ้าประมาณ 124 เมกะวัตต์ โรงงานที่จะมาตั้งใหม่ตามกลุ่มอุตสาหกรรมเป้าหมายข้างต้นจะต้องไม่เป็นโรงงานที่กระบวนการผลิตไม่มีโลหะหนักปนเปื้อนในน้ำเสียและไม่เป็นอุตสาหกรรมที่มีการใช้น้ำมากกว่าเกณฑ์ที่ กนอ. กำหนด",
+    "rpt_id": "48",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "29",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสากรรมปุ๋ย/สี/เคมี",
+    "rpt_id": "54",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "30",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมเหล็กและผลิตภัณฑ์โลหะ",
+    "rpt_id": "54",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "31",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตสิ่งทอ/เส้นใย/เครื่องหนัง/เครื่องแต่งกาย",
+    "rpt_id": "54",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "32",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมยาง/พลาสติก/หนังเทียม",
+    "rpt_id": "54",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "33",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมอุปกรณ์ไฟฟ้าอิเล็กทรอนิกส์/เครื่องมือวิทยาศาสตร์",
+    "rpt_id": "54",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "34",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมกระดาษ/สิ่งพิมพ์/อาหาร",
+    "rpt_id": "54",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "35",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมอื่นที่เกี่ยวเนื่องกับการประกอบอุตสาหกรรม (คลังสินค้าให้เช่า อาคารโรงงาน)",
+    "rpt_id": "54",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "301",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมปุ๋ย / สี / เคมี",
+    "rpt_id": "55",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "302",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมเหล็กและผลิตภัณฑ์โลหะ",
+    "rpt_id": "55",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "303",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมสิ่งทอ / เส้นใย / เครื่องหนัง / เครื่องแต่งกาย",
+    "rpt_id": "55",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "304",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมยาง / พลาสติก / หนังเทียม",
+    "rpt_id": "55",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "305",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมอุปกรณ์ไฟฟ้าอิเล็กทรอนิกส์ / เครื่องมือวิทยาศาสตร์",
+    "rpt_id": "55",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "306",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมกระดาษ / สิ่งพิมพ์ / อาหาร",
+    "rpt_id": "55",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "307",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมอุื่นที่เกียวเนื่องกับการประกอบอุตสาหกรรม (คลังสินค้าให้เช่า, อาคารโรงงาน)",
+    "rpt_id": "55",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "294",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "64",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "295",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นกลาง / ปลาย",
+    "rpt_id": "64",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "296",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "64",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "297",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "64",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "298",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตาสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "64",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "299",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษและพลาสติก",
+    "rpt_id": "64",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "300",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภค",
+    "rpt_id": "64",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "287",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "67",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "288",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "67",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "289",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "67",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "290",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "67",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "291",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภคหรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "67",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "292",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมที่ได้รับการส่งเสริมตามโครงการพัฒนาระเบียงเศรษฐกิจพิเศษภาคตะวันออก",
+    "rpt_id": "67",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "293",
+    "t_industry_no": "7",
+    "t_industry_text": "nan",
+    "rpt_id": "67",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "280",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "72",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "281",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มขึ้นรูปโลหะ",
+    "rpt_id": "72",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "282",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "72",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "283",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ",
+    "rpt_id": "72",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "284",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์",
+    "rpt_id": "72",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "285",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเคมีภัณฑ์ กระดาษ และพลาสติก",
+    "rpt_id": "72",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "286",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภคหรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "72",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "57",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมเบา ยกตัวอย่าง เช่น อุตสาหกรรมสิ่งถักและสิ่งทอ อุตสาหกรรมเครื่องแต่งกาย อุตสาหกรรมแปรรูปไม้และผลิตภัณฑ์จากไม้ อุตสาหกรรมผลิตภัณฑ์กระดาษ อุตสาหกรรมผลิตภัณฑ์พลาสติก คลังสินค้า ศูนย์กระจายสินค้า",
+    "rpt_id": "76",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "58",
+    "t_industry_no": "2",
+    "t_industry_text": "โรงไฟฟ้าที่ใช้ก๊าซธรรมชาติเป็นเชื้อเพลิง จำนวน 1 โรง มีกำลังการผลิตไฟฟ้าประมาณ 24 เมกะวัตต์",
+    "rpt_id": "76",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "59",
+    "t_industry_no": "3",
+    "t_industry_text": "โรงงานที่จะมาตั้งใหม่ตามกลุ่มอุตสาหกรรมเป้าหมายข้างต้นจะต้องไม่เป็นโรงงานที่กระบวนการผลิตไม่มีโลหะหนักปนเปื้อนในน้ำเสียและไม่เป็นอุตสาหกรรมที่มีการใช้น้ำมากกว่าเกณฑ์ที่ กนอ. กำหนด",
+    "rpt_id": "76",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "335",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมเกษตรกรรม และผลผลิตจากการเกษตร",
+    "rpt_id": "76",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "336",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมเซรามิกส์และโลหะ",
+    "rpt_id": "76",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "337",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์และไฟฟ้า",
+    "rpt_id": "76",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "338",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมเคมีภัฑ์ กระดาษ และพลาสติก รวมไปถึงโรงกลั่นน้ำมัน",
+    "rpt_id": "76",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "339",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมเบา",
+    "rpt_id": "76",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "340",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมสนับสนุนการผลิต",
+    "rpt_id": "76",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "341",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมยูเรียฟอร์มัลดีไฮด์เรซิน",
+    "rpt_id": "76",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "256",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมแปรรูปพืช ผัก และผลไม้ดอง",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "257",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมสิ่งทอและเครื่องนุ่งห่ม",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "258",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตเสื้อผ้าสำเร็จรูป",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "260",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมเฟอร์นิเจอร์จากไม้",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "261",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมเครื่องจักร เครื่องกลการเกษตร",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "262",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมเกี่ยวกับอุปกรณ์สิ่งพิมพ์ กระดาษ",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "263",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมเครื่องหนัง",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "264",
+    "t_industry_no": "8",
+    "t_industry_text": "อุตสาหกรรมเซรามิก",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "265",
+    "t_industry_no": "9",
+    "t_industry_text": "อุตสาหกรรมขึ้นรูปโลหะ",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "266",
+    "t_industry_no": "10",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "267",
+    "t_industry_no": "11",
+    "t_industry_text": "อุตสาหกรรมเครื่องมืออุปกรณ์ถ่ายรูป เลนส์",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "269",
+    "t_industry_no": "12",
+    "t_industry_text": "อุตสาหกรรมผลิตเครื่องเขียน เครื่องใช้สำนักงาน",
+    "rpt_id": "78",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "326",
+    "t_industry_no": "1",
+    "t_industry_text": "กิจกรรมผลิตเส้นใยธรรมชาติหรือเส้นใยประดิษฐ์",
+    "rpt_id": "81",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "327",
+    "t_industry_no": "2",
+    "t_industry_text": "กิจการผลิตด้าย",
+    "rpt_id": "81",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "328",
+    "t_industry_no": "3",
+    "t_industry_text": "กิจการผลิตผ้า",
+    "rpt_id": "81",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "329",
+    "t_industry_no": "4",
+    "t_industry_text": "กิจการฟอกย้อมและแต่งเสร็จ",
+    "rpt_id": "81",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "330",
+    "t_industry_no": "5",
+    "t_industry_text": "กิจการพิมพ์และแต่งเสร็จ",
+    "rpt_id": "81",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "331",
+    "t_industry_no": "6",
+    "t_industry_text": "กิจการผลิตเครื่องนุ่งห่ม",
+    "rpt_id": "81",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "332",
+    "t_industry_no": "7",
+    "t_industry_text": "กิจการผลิตชิ้นส่วนประกอบเครื่องนุ่งห่ม",
+    "rpt_id": "81",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "333",
+    "t_industry_no": "8",
+    "t_industry_text": "กิจการผลิตเคหะสิ่งทอ",
+    "rpt_id": "81",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "334",
+    "t_industry_no": "9",
+    "t_industry_text": "กิจการผลิตพรม",
+    "rpt_id": "81",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "248",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมโรงกลั่นน้ำมันและผลิตภัณฑ์จากปิโตรเลียม",
+    "rpt_id": "84",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "249",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมผลิตเหล็ก โลหะมูลฐานและผลิตภัณฑ์โลหะ",
+    "rpt_id": "84",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "250",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมี และเคมีภัณฑ์ พลาสติก",
+    "rpt_id": "84",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "251",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมการให้บริการและสาธารณูปโภค",
+    "rpt_id": "84",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "252",
+    "t_industry_no": "5",
+    "t_industry_text": "nan",
+    "rpt_id": "84",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "253",
+    "t_industry_no": "6",
+    "t_industry_text": "nan",
+    "rpt_id": "84",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "254",
+    "t_industry_no": "7",
+    "t_industry_text": "nan",
+    "rpt_id": "84",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "255",
+    "t_industry_no": "8",
+    "t_industry_text": "nan",
+    "rpt_id": "84",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "237",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "86",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "238",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มขึ้นรูปโลหะ",
+    "rpt_id": "86",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "239",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "86",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "240",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "86",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "241",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุุตสาหกรรมอิเลคทรอนิคส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "86",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "242",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มผลิตและขึ้นรูปพลาสติก/ผลิตภัณฑ์ชีวภาพ",
+    "rpt_id": "86",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "243",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภคหรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "86",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "315",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมชุบโลหะและโลหะขึ้นรูป",
+    "rpt_id": "88",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "316",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมฟอกย้อมและสิ่งทอ",
+    "rpt_id": "88",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "317",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตภัณฑ์ยาง",
+    "rpt_id": "88",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "318",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมผลิตภัณฑ์เวชภัณฑ์",
+    "rpt_id": "88",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "319",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมผลิตชิ้นส่วนรถยนต์",
+    "rpt_id": "88",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "320",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมประกอบผลิตภัณฑ์จากพลาสติกและกระดาษ",
+    "rpt_id": "88",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "321",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมประกอบเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์",
+    "rpt_id": "88",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "322",
+    "t_industry_no": "8",
+    "t_industry_text": "อุตสาหกรรมเครื่องปั้นดินเผา เซรามิก โลหะขั้นมูลฐานทุกขนิด",
+    "rpt_id": "88",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "323",
+    "t_industry_no": "9",
+    "t_industry_text": "อุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "88",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "324",
+    "t_industry_no": "10",
+    "t_industry_text": "อุตสาหกรรมผลิตอาหารและแช่แข็ง",
+    "rpt_id": "88",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "325",
+    "t_industry_no": "11",
+    "t_industry_text": "อุตสาหกรรมบริการและสาธารณูปโภค",
+    "rpt_id": "88",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "231",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "90",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "232",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "90",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "233",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "90",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "234",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุุตสาหกรรมอิเลคทรอนิคส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "90",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "235",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภคหรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "90",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "236",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเป้าหมายตามพระราชบัญญัติเขตพัฒนาพิเศษภาคตะวันออก",
+    "rpt_id": "90",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "217",
+    "t_industry_no": "1",
+    "t_industry_text": "กิจการผลิตพลังงานไฟฟ้าและพลังงานน้ำ จำนวน 1 แห่ง โดยใช้เชื้อเพลิงชีวมวลและ Biogas",
+    "rpt_id": "94",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "219",
+    "t_industry_no": "2",
+    "t_industry_text": "กิจการผลิตแอลกอฮอล์หรือเชื้อเพลิงจากผลผลิตทางการเกษตร",
+    "rpt_id": "94",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "220",
+    "t_industry_no": "3",
+    "t_industry_text": "กิจการอื่นๆ ที่ใช้เอทานอลเป็นวัตถุดิบตั้งต้น",
+    "rpt_id": "94",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "221",
+    "t_industry_no": "4",
+    "t_industry_text": "กิจการอื่นๆ ที่ไม่ได้อยู่ในประเภทหรือกิจการที่ห้ามตั้งในพื้นที่โครงการ",
+    "rpt_id": "94",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "214",
+    "t_industry_no": "1",
+    "t_industry_text": "โรงงานผลิตเบียร์",
+    "rpt_id": "101",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "215",
+    "t_industry_no": "2",
+    "t_industry_text": "โรงงานไฟฟ้าพลังความร้อนร่วม",
+    "rpt_id": "101",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "216",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมทั่วไป(1.กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร, 2.กลุ่มเซรามิค และโลหะขั้นกลางขั้น/ปลาย, 3.กลุ่มอุตสาหกรรมเบา, 4.กลุ่มผลิตภัณฑ์อิเล็กทรอนิคส์และเครื่องใช้ไฟฟ้า, 5.กลุ่มเคมีภัณฑ์ กระดาษ และพลาสติก, 6.กลุ่มบริการสาธารณูปโภค)",
+    "rpt_id": "101",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "93",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมและผลผลิตจากการเกษตร",
+    "rpt_id": "103",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "123",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมและผลผลิตจากการเกษตร",
+    "rpt_id": "103",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "135",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมและผลผลิตจากการเกษตร",
+    "rpt_id": "103",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "136",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มแร่ เซรามิกส์และโลหะขั้นมูลฐาน",
+    "rpt_id": "103",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "137",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุุตสาหกรรมเบา",
+    "rpt_id": "103",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "138",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักร อุปกรณ์ขนส่ง",
+    "rpt_id": "103",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "139",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "103",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "140",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภคหรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "103",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "141",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มอุตสาหกรรมพลาสติกและกระดาษ",
+    "rpt_id": "103",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "142",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มการพัฒนาเทคโนโลยีและนวัตกรรม",
+    "rpt_id": "103",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "143",
+    "t_industry_no": "9",
+    "t_industry_text": "nan",
+    "rpt_id": "103",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "144",
+    "t_industry_no": "10",
+    "t_industry_text": "nan",
+    "rpt_id": "103",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "145",
+    "t_industry_no": "11",
+    "t_industry_text": "nan",
+    "rpt_id": "103",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "146",
+    "t_industry_no": "12",
+    "t_industry_text": "nan",
+    "rpt_id": "103",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "211",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเป้าหมายหลัก(1.อุตสาหกรรมผลิตอาหารสัตว์ที่ใช้วัตถุดิบจากพืชเป็นหลัก 2.อุตสาหกรรมผลไม้กระป๋อง 3.อุตสาหกรรมอาหารกระป๋องที่ใช้วัตถุดิบจากพืชเป็นหลัก 4.อุตสาหกรรมแปรรูปผลไม้และผลิตผลเกษตรอื่นๆ)",
+    "rpt_id": "113",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "212",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเป้าหมายรอง(1.พื้นที่อุตสาหกรรมประเภทที่มีน้ำเสียทางชีวภาพ -อุตสาหกรรมเครื่องปั้นดินเผา -อุตสาหกรรมเบาและมีมูลค่าเพิ่มสูงสามารถส่งออกทางเครื่องบิน เช่น ของเด็กเล่น เสื้อผ้าสำเร็จรูป อุปกรณ์กีฬา -อุตสาหกรรมด้านสุขภาพ เช่น เวชภัณฑ์ ยา เครื่องสำอาง และผลิตภัณฑ์ดูแลสุขภาพ เป็นต้น 2.พื้นที่อุตสาหกรรมประเภทที่อาจมีน้ำเสียทางเคมี -อุตสาหกรรมผลิตและประกอบชิ้นส่วนเครื่องจักรอุปกรณ์และเครื่องมือทางการเกษตร -อุตสาหกรรมด้านสุขภาพ เช่น เวชภัณฑ์ ยา เครื่องสำอาง และผลิตภัณฑ์ดูแลสุขภาพ เป็นต้น)",
+    "rpt_id": "113",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "213",
+    "t_industry_no": "3",
+    "t_industry_text": "nan",
+    "rpt_id": "113",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "37",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มผลิตผลจากการเกษตร (ที่ไม่อยู่ในกลุ่มประเภทที่ห้ามตั้ง)",
+    "rpt_id": "114",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "38",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นกลาง/ขั้นปลาย",
+    "rpt_id": "114",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "39",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "114",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "40",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "114",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "41",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "114",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "42",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษ (ที่ไม่ใช่เยื่อกระดาษ) และพลาสติก",
+    "rpt_id": "114",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "43",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภคหรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "114",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "112",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลทางการเกษตร",
+    "rpt_id": "116",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "113",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นกลาง / ปลาย",
+    "rpt_id": "116",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "114",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "116",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "115",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "116",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "116",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "116",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "117",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษและพลาสติก",
+    "rpt_id": "116",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "118",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการและสาธารณูปโภค",
+    "rpt_id": "116",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "119",
+    "t_industry_no": "8",
+    "t_industry_text": "กิจการผลิตไฟฟ้าเพื่อจำหน่ายภายนอกนิคมอุตสาหกรรม",
+    "rpt_id": "116",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "120",
+    "t_industry_no": "9",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์อาคาร",
+    "rpt_id": "116",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "121",
+    "t_industry_no": "10",
+    "t_industry_text": "กลุ่มพัฒนาเทคโนโลยีและนวัตกรรม",
+    "rpt_id": "116",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "347",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมผลิตยางล้อยานยนต์",
+    "rpt_id": "118",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "348",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมผลิต ผลิตภัณฑ์ยางชิ้นส่วนยานยนต์",
+    "rpt_id": "118",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "349",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิต ผลิตภัณฑ์ยางที่ใช้ในการก่อสร้าง",
+    "rpt_id": "118",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "350",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมผลิต ผลิตภัณฑ์สายพาน",
+    "rpt_id": "118",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "351",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมผลิต ผลิตภัณฑ์ยางอื่นๆ",
+    "rpt_id": "118",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "352",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตเครื่องจักรและชิ้นส่วน",
+    "rpt_id": "118",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "353",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตไฟฟ้าจากพลังงานทางเลือก",
+    "rpt_id": "118",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "184",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลผลิตจากการเกษตร",
+    "rpt_id": "125",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "185",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นกลาง / ปลาย",
+    "rpt_id": "125",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "186",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "125",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "187",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "125",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "188",
+    "t_industry_no": "5",
+    "t_industry_text": "โรงงานประกอบอะไหล่รถยนต์ / อุปกรณ์รถยนต์",
+    "rpt_id": "125",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "189",
+    "t_industry_no": "6",
+    "t_industry_text": "โรงงานประกอบอุปกรณ์อิเล็กทรอนิกส์ - ไฟฟ้า",
+    "rpt_id": "125",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "190",
+    "t_industry_no": "7",
+    "t_industry_text": "โรงงานผลิตโลหะ / เครื่องกล",
+    "rpt_id": "125",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "191",
+    "t_industry_no": "8",
+    "t_industry_text": "โรงงานประกอบชิ้นส่วนเครื่องใช้ไฟฟ้า",
+    "rpt_id": "125",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "192",
+    "t_industry_no": "9",
+    "t_industry_text": "โรงงานบรรจุภัณฑ์",
+    "rpt_id": "125",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "193",
+    "t_industry_no": "10",
+    "t_industry_text": "โรงงานทั่วไปที่ไม่เข้าข่ายโรงงานห้ามตั้ง",
+    "rpt_id": "125",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "201",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "125",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "203",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นมูลฐาน",
+    "rpt_id": "125",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "204",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "125",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "205",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "125",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "206",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "125",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "207",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษ และพลาสติก",
+    "rpt_id": "125",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "209",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภค",
+    "rpt_id": "125",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "210",
+    "t_industry_no": "8",
+    "t_industry_text": "nan",
+    "rpt_id": "125",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "102",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "129",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "103",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นมูลฐาน",
+    "rpt_id": "129",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "104",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "129",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "105",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "129",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "106",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "129",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "107",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษ และพลาสติก",
+    "rpt_id": "129",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "108",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภค",
+    "rpt_id": "129",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "157",
+    "t_industry_no": "1",
+    "t_industry_text": "โรงงานฟอกหนัง",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "158",
+    "t_industry_no": "2",
+    "t_industry_text": "โรงงานฟอกย้อม",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "159",
+    "t_industry_no": "3",
+    "t_industry_text": "โรงงานผลิตเยื่อกระดาษ",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "160",
+    "t_industry_no": "4",
+    "t_industry_text": "โรงงานผลิตและบรรจุยาฆ่าแมลง",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "161",
+    "t_industry_no": "5",
+    "t_industry_text": "โรงงานที่มีส่วนผลิตโซดาไฟด้วยวิธีใช้เซลล์ปรอท",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "162",
+    "t_industry_no": "6",
+    "t_industry_text": "โรงงานหลอมตะกั่วที่ใช้แล้ว",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "163",
+    "t_industry_no": "7",
+    "t_industry_text": "โรงงานผลิตซ่อมแซมและดัดแปลงวัตถุระเบิด",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "164",
+    "t_industry_no": "8",
+    "t_industry_text": "โรงงานผลิตหลอดฟลูออเรสเซนต์",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "165",
+    "t_industry_no": "9",
+    "t_industry_text": "โรงงานผลิตถ่านไฟฉาย ผลิตแบตเตอรี่",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "166",
+    "t_industry_no": "10",
+    "t_industry_text": "โรงงานที่รับซื้อหม้อแบตเตอรี่เก่านำมาแยกตะกั่วเพื่อหลอมใหม่หรือหลอมรวมกัน",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "167",
+    "t_industry_no": "11",
+    "t_industry_text": "โรงงานอุตสาหกรรมชุบผิวเคลือบโลหะด้วยไฟฟ้า หรือมีกระบวนการชุบเคลือบโลหะในขั้นตอนการผลิต เป็นต้น",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "168",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลผลิตจากการเกษตร",
+    "rpt_id": "134",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "169",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นกลาง / ปลาย",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "170",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "171",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "134",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "172",
+    "t_industry_no": "5",
+    "t_industry_text": "โรงงานประกอบอะไหล่รถยนต์ / อุปกรณ์รถยนต์",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "173",
+    "t_industry_no": "6",
+    "t_industry_text": "โรงงานประกอบอุปกรณ์อิเล็กทรอนิกส์ - ไฟฟ้า",
+    "rpt_id": "134",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "174",
+    "t_industry_no": "7",
+    "t_industry_text": "โรงงานผลิตโลหะ / เครื่องกล",
+    "rpt_id": "134",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "175",
+    "t_industry_no": "8",
+    "t_industry_text": "โรงงานประกอบชิ้นส่วนเครื่องใช้ไฟฟ้า",
+    "rpt_id": "134",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "176",
+    "t_industry_no": "9",
+    "t_industry_text": "โรงงานบรรจุภัณฑ์",
+    "rpt_id": "134",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "177",
+    "t_industry_no": "10",
+    "t_industry_text": "โรงงานทั่วไปที่ไม่เข้าข่ายโรงงานห้ามตั้ง",
+    "rpt_id": "134",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "178",
+    "t_industry_no": "11",
+    "t_industry_text": "nan",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "179",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลผลิตจากการเกษตร",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "180",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นกลาง / ปลาย",
+    "rpt_id": "134",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "181",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "134",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "182",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "134",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "183",
+    "t_industry_no": "5",
+    "t_industry_text": "โรงงานประกอบอะไหล่รถยนต์ / อุปกรณ์รถยนต์",
+    "rpt_id": "134",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "415",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมีขั้นต้น",
+    "rpt_id": "144",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "416",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมีขั้นกลาง",
+    "rpt_id": "144",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "417",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมีขั้นปลาย",
+    "rpt_id": "144",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "418",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมยานยนต์ (ตามแนวทางการพัฒนาของเขตพัฒนาพิเศษภาคตะวันออก (EEC))",
+    "rpt_id": "144",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "419",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมยานยนต์ (ตามแนวทางการพัฒนาของเขตพัฒนาพิเศษภาคตะวันออก (EEC))",
+    "rpt_id": "144",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "420",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมยานยนต์ (ตามแนวทางการพัฒนาของเขตพัฒนาพิเศษภาคตะวันออก (EEC))",
+    "rpt_id": "144",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "421",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมยานยนต์ (ตามแนวทางการพัฒนาของเขตพัฒนาพิเศษภาคตะวันออก (EEC))",
+    "rpt_id": "144",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "422",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์อัจฉริยะ (ตามแนวทางการพัฒนาของเขตพัฒนาพิเศษภาคตะวันออก (EEC)",
+    "rpt_id": "144",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "423",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมเชื้อเพลิงชีวภาพและเคมีชีวภาพ (ตามแนวทางการพัฒนาของเขตพัฒนาพิเศษภาคตะวันออก (EEC)",
+    "rpt_id": "144",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "424",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมหุ่นยนต์เพื่ออุตสาหกรรม (ตามแนวทางการพัฒนาของเขตพัฒนาพิเศษภาคตะวันออก (EEC)",
+    "rpt_id": "144",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "425",
+    "t_industry_no": "8",
+    "t_industry_text": "อุตสาหกรรมดิจิทัล (ตามแนวทางการพัฒนาของเขตพัฒนาพิเศษภาคตะวันออก (EEC)",
+    "rpt_id": "144",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "60",
+    "t_industry_no": "1",
+    "t_industry_text": "โรงงานผลิตอะไหร่รถยนต์/รถยนต์",
+    "rpt_id": "145",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "61",
+    "t_industry_no": "2",
+    "t_industry_text": "โรงงานผลิตผลิตภัณฑ์อิเลคทรอนิกส์-ไฟฟ้า",
+    "rpt_id": "145",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "62",
+    "t_industry_no": "1",
+    "t_industry_text": "โรงงานผลิตอะไหร่รถยนต์/รถยนต์ 1",
+    "rpt_id": "147",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "63",
+    "t_industry_no": "2",
+    "t_industry_text": "โรงงานผลิตผลิตภัณฑ์อิเลคทรอนิกส์-ไฟฟ้า 1",
+    "rpt_id": "147",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "94",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "153",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "95",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มแร่ เซรามิก และโลหะขั้นมูลฐาน",
+    "rpt_id": "153",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "96",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "153",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "97",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "153",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "98",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์",
+    "rpt_id": "153",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "99",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ พลาสติก และกระดาษ",
+    "rpt_id": "153",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "100",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มกิจการบริการและสาธารณูปโภค",
+    "rpt_id": "153",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "101",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มการพัฒนาเทคโนโลยีและนวัตกรรม",
+    "rpt_id": "153",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "410",
+    "t_industry_no": "1",
+    "t_industry_text": "ผลิตโลหะ เครื่องจักร และอุปกรณ์ขนส่ง",
+    "rpt_id": "154",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "411",
+    "t_industry_no": "2",
+    "t_industry_text": "อิเล็กทรอนิกส์และเครื่องไฟฟ้า",
+    "rpt_id": "154",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "412",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมเบา",
+    "rpt_id": "154",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "413",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมเกี่ยวกับการเกษตร",
+    "rpt_id": "154",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "414",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมบริการ",
+    "rpt_id": "154",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "52",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเป้าหมายหลัก - กลุ่มอุตสาหกรรมปิโตรเลียมเคมีขั้นกลาง เป็นขบวนการที่นำผลิตภัณฑ์จากอุตสาหกรรมปิโตรเคมี ขั้นต้นมาผ่านขบวนการทางเคมีต่างๆ เพื่อให้ได้ผลผลิตเป็นสารตั้งต้น ในการผลิตภัณฑ์ปิโตรเคมีขั้นปลายต่อไป",
+    "rpt_id": "186",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "53",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเป้าหมายหลัก - กลุ่มอุตสาหกรรมปิโตรเคมีขั้นปลาย เป็นอุตสาหกรรมที่นำผลิตภัณฑ์จากปิโตรเคมีขั้นกลางและขั้นต้นมาผ่านขบวนการเพื่อให้เป็นผลิตภัณฑ์ต่อไป",
+    "rpt_id": "186",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "54",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเป้าหมายหลัก - กลุ่มเป้าหมายหลักประกอบด้วยโรงงานประมาณ 11 ประเภท ได้แก่ HDPE, LDPE, PP, SBR, BR, Phenol, PS, Caprolactum, PAN, PTA และ Malamine",
+    "rpt_id": "186",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "55",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเป้าหมายรอง - ได้แก่ อุตสาหกรรมผลิต ประกอบ ดัดแปลงซ่อมแซมแผงวงจรและผลิตชิ้นส่วนอิเล็กทรอนิกส์ อุตสาหกรรมผลิตเหล็กในขั้นกลางและปลาย ที่ไม่มีขบวนการหลอมตลอดจนอุตสาหกรรมผลิตชิ้นส่วน และประกอบรถยนต์ โดยโครงการมีนโยบายรับอุตสาหกรรมประเภทนี้ทั้งสิ้นในสัดส่วนประมาณร้อยละ 40 ของพื้นที่อุตสาหกรรมทั้งหมดหรือคิดเป็นพื้นที่ประมาณ 750 ไร่",
+    "rpt_id": "186",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "74",
+    "t_industry_no": "1",
+    "t_industry_text": "ยานยนต์สมัยใหม่",
+    "rpt_id": "188",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "75",
+    "t_industry_no": "2",
+    "t_industry_text": "อิเล็กทรอนิกส์อิจฉริยะ",
+    "rpt_id": "188",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "76",
+    "t_industry_no": "3",
+    "t_industry_text": "การท่องเที่ยวกลุ่มรายได้ดีและการท่องเที่ยวเชิงสุขภาพ",
+    "rpt_id": "188",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "77",
+    "t_industry_no": "4",
+    "t_industry_text": "การเกษตรและเทคโนโลยีชีวภาพ",
+    "rpt_id": "188",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "78",
+    "t_industry_no": "5",
+    "t_industry_text": "การแปรรูปอาหาร",
+    "rpt_id": "188",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "79",
+    "t_industry_no": "6",
+    "t_industry_text": "หุ่นยนต์",
+    "rpt_id": "188",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "80",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตาหกรรมหุ่นยนต์",
+    "rpt_id": "188",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "81",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมการบินและโลจิสติกส์",
+    "rpt_id": "188",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "82",
+    "t_industry_no": "8",
+    "t_industry_text": "อุตสาหกรรมเชื้อเพลิงชีวภาพและเคมีชีวภาพ",
+    "rpt_id": "188",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "83",
+    "t_industry_no": "9",
+    "t_industry_text": "อุตสาหกรรมดิจิทัล",
+    "rpt_id": "188",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "84",
+    "t_industry_no": "10",
+    "t_industry_text": "อุตสาหกรรมการแพทย์และสุขภาพ",
+    "rpt_id": "188",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "109",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมเกษตร",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "110",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมเกษตร",
+    "rpt_id": "190",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "111",
+    "t_industry_no": "2",
+    "t_industry_text": "อุุตสาหกรรมสิ่งทอ เครื่องนุ่งห่ม และเครื่องหนัง",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "122",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตเครื่องเรือน",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "124",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมอัญมณีและเครื่องประดับ",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "125",
+    "t_industry_no": "5",
+    "t_industry_text": "การผลิตเครื่องมือแพทย์",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "126",
+    "t_industry_no": "5",
+    "t_industry_text": "การผลิตเครื่องมือแพทย์",
+    "rpt_id": "190",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "127",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมรถยนต์ เครื่่องจักรและชิ้นส่วน",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "128",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "129",
+    "t_industry_no": "8",
+    "t_industry_text": "การผลิตพลาสติก",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "130",
+    "t_industry_no": "9",
+    "t_industry_text": "การผลิตยา",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "131",
+    "t_industry_no": "10",
+    "t_industry_text": "กิจการโลจิสติกส์",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "132",
+    "t_industry_no": "11",
+    "t_industry_text": "นิคมหรือเขตอุตสาหกรรม",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "133",
+    "t_industry_no": "11",
+    "t_industry_text": "นิคมหรือเขตอุตสาหกรรม",
+    "rpt_id": "190",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "134",
+    "t_industry_no": "12",
+    "t_industry_text": "กิจการเพื่อสนับสนุนการท่องเที่ยว",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "426",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมเกษตร",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "427",
+    "t_industry_no": "2",
+    "t_industry_text": "อุุตสาหกรรมสิ่งทอ เครื่องนุ่งห่ม และเครื่องหนัง",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "428",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตเครื่องเรือน",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "429",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมอัญมณีและเครื่องประดับ",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "430",
+    "t_industry_no": "5",
+    "t_industry_text": "การผลิตเครื่องมือแพทย์",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "431",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมรถยนต์ เครื่่องจักรและชิ้นส่วน",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "432",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "433",
+    "t_industry_no": "8",
+    "t_industry_text": "การผลิตพลาสติก",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "434",
+    "t_industry_no": "9",
+    "t_industry_text": "การผลิตยา",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "435",
+    "t_industry_no": "10",
+    "t_industry_text": "กิจการโลจิสติกส์",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "436",
+    "t_industry_no": "11",
+    "t_industry_text": "นิคมหรือเขตอุตสาหกรรม",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "437",
+    "t_industry_no": "12",
+    "t_industry_text": "กิจการเพื่อสนับสนุนการท่องเที่ยว",
+    "rpt_id": "190",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "147",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมยานยนต์สมัยใหม่",
+    "rpt_id": "193",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "148",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์อัจฉริยะ",
+    "rpt_id": "193",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "149",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมท่องเที่ยวเชิงคุณภาพและการท่องเที่ยวเชิงสุขภาพ",
+    "rpt_id": "193",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "150",
+    "t_industry_no": "4",
+    "t_industry_text": "การเกษตรและเทคโนโลยีชีวภาพ",
+    "rpt_id": "193",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "151",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมการแปรรูปอาหาร",
+    "rpt_id": "193",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "152",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมหุ่นยนต์เพื่อการอุตสาหกรรม",
+    "rpt_id": "193",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "153",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมการบินและโลจิสติกส์",
+    "rpt_id": "193",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "154",
+    "t_industry_no": "8",
+    "t_industry_text": "อุตสาหกรรมเชื้อเพลิงชีวภาพและเคมีชีวภาพ",
+    "rpt_id": "193",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "155",
+    "t_industry_no": "9",
+    "t_industry_text": "อุตสาหกรรมดิจิทัล",
+    "rpt_id": "193",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "156",
+    "t_industry_no": "10",
+    "t_industry_text": "อุตสาหกรรมการแพทย์ครบวงจร",
+    "rpt_id": "193",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "194",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมยานยนต์แห่งอนาคต",
+    "rpt_id": "194",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "195",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุุ่มอุตสาหกรรมอิเล็กทรอนิกส์อัจฉริยะ",
+    "rpt_id": "194",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "196",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุุตสาหกรรมการแพทย์ครบวงจร",
+    "rpt_id": "194",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "197",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมดิจิทัล",
+    "rpt_id": "194",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "198",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมแปรรูปอาหาร",
+    "rpt_id": "194",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "199",
+    "t_industry_no": "6",
+    "t_industry_text": "โรงไฟฟ้าพลังงานความร้อนร่วมที่ใช้ก๊าซเชื้อเพลิง / โรงไฟฟ้าพลังงานทดแทน",
+    "rpt_id": "194",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "200",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการประกอบกิจการเกี่ยวกับผลิตภัณฑ์โลหะ",
+    "rpt_id": "194",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "202",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการประกอบกิจการเกี่ยวกับเครื่องเรือน หรือเครื่องที่ตบแต่งภายในจากไม้",
+    "rpt_id": "194",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "208",
+    "t_industry_no": "9",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการผลิตพลาสติก",
+    "rpt_id": "194",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "218",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตชั้นส่วนยานยนต์และประกอบรถยนต์/ยานยนต์แห่งอนาคต และ อุตสาหกรรมสนับสนุนการผลิตชิ้นส่วนยานยนต์และประกอบรถยนต์/ยานยนต์แห่งอนาคต",
+    "rpt_id": "195",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "222",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์",
+    "rpt_id": "195",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "223",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเหล็กขั้นกลางและขั้นปลาย",
+    "rpt_id": "195",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "224",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "195",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "225",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมแบตเตอร์รี่ หรือเซลล์เก็บประจุไฟฟ้าที่ไม่มีกระบวนการหลอมตะกั่วและไม่รับประเภทที่เป็นแผ่นธาตุ",
+    "rpt_id": "195",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "226",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมหุ่นยนต์",
+    "rpt_id": "195",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "227",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการบินและโลจิสติกส์",
+    "rpt_id": "195",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "228",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมบริการสาธารณูปโภคสนับสนุน",
+    "rpt_id": "195",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "229",
+    "t_industry_no": "9",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการเกษตรและอุตสาหกรรมแปรรูปอาหาร",
+    "rpt_id": "195",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "230",
+    "t_industry_no": "10",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอุปกรณ์ทางการแพทย์",
+    "rpt_id": "195",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "244",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "196",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "245",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มผลิคภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "196",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "246",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "196",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "247",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มสาธารณูปโภค",
+    "rpt_id": "196",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "259",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมเกษตรและผลิตผลจากการเกษตร",
+    "rpt_id": "197",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "268",
+    "t_industry_no": "2",
+    "t_industry_text": "ผลิตภัณฑ์อาหาร และเครื่องดื่ม",
+    "rpt_id": "197",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "270",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์",
+    "rpt_id": "197",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "271",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์",
+    "rpt_id": "197",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "272",
+    "t_industry_no": "4",
+    "t_industry_text": "ผลิตภัณฑ์จากอัญมณี",
+    "rpt_id": "197",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "273",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "197",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "274",
+    "t_industry_no": "6",
+    "t_industry_text": "ชิ้นส่วนอิเล็กทรอนิกส์",
+    "rpt_id": "197",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "275",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มกิจการสาธารณูปโภคและบริการพื้นฐาน",
+    "rpt_id": "197",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "276",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตแบตเตอร์รี่สำหรับยานยนต์ไฟฟ้าชนิดลิเทียมไอออนหรือเท่าเทียมกัน",
+    "rpt_id": "197",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "277",
+    "t_industry_no": "9",
+    "t_industry_text": "กลุ่มพลังงานไฟฟ้าทางเลือก",
+    "rpt_id": "197",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "278",
+    "t_industry_no": "10",
+    "t_industry_text": "อุตสาหกรรมการผลิตชิ้นส่วนยานยนต์",
+    "rpt_id": "197",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "279",
+    "t_industry_no": "11",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเคมีภัณฑ์พลาสติก และกระดาษ",
+    "rpt_id": "197",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "308",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลผลิตการเกษตร",
+    "rpt_id": "198",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "309",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกส์ และโลหะขั้นกลาง / ปลาย",
+    "rpt_id": "198",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "310",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "198",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "311",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "198",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "312",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "198",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "313",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภคหรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "198",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "314",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอื่นๆ ที่ไม่อยู่ในกลุ่มอุตสาหกรรมห้ามตั้ง",
+    "rpt_id": "198",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "342",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมเกษตรกรรมและผลิตผลการเกษตร",
+    "rpt_id": "199",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "343",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมผลิตภัณฑ์โลหะ เครื่องจักร และอุปกรณ์ขนส่ง",
+    "rpt_id": "199",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "344",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์",
+    "rpt_id": "199",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "345",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมเคมีภัณฑ์ กระดาษ และพลาสติก",
+    "rpt_id": "199",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "346",
+    "t_industry_no": "5",
+    "t_industry_text": "กิจการบริการและสาธารณูปโภค",
+    "rpt_id": "199",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "354",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมพลังงานสะอาดและพลังงานทดแทน ได้แก่ โรงไฟฟ้าธรรมชาติ โรงงานผลิตน้ำมันไบโอดีเซล เป็นต้น",
+    "rpt_id": "200",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "355",
+    "t_industry_no": "2",
+    "t_industry_text": "กกลุ่มอุตสาหกรรมชีวภาพ (Bio Industry) ได้แก่ โรงงานน้ำมันปาล์มบริสุทธิ์ โอลีเคมี และพลาสติกชีวภาพ เป็นต้น",
+    "rpt_id": "200",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "356",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมที่เน้นเทคโนโลยี (Hi-tech Industry) ได้แก่ อุตสาหกรรมยานยนต์ กลุ่มชื้นส่วนไฟฟ้าและอิเล็กทรอนิกส์ กลุ่มผลติภัณฑ์พลาสติกและบรรุภัณฑ์ เป็นต้น",
+    "rpt_id": "200",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "357",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมสร้างสรรค์ (Creative Industry) ได้แก่ ศูนย์บริการครบวงจร (One Stop Service) ศูนย์ข้อมูล (Data Centre) ศูนย์ฝึกอบรม และศุนย์วิจัยและพัฒนาเพื่อต่อยอดธุรกิจ เป็นต้น",
+    "rpt_id": "200",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "358",
+    "t_industry_no": "5",
+    "t_industry_text": "nan",
+    "rpt_id": "200",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "359",
+    "t_industry_no": "6",
+    "t_industry_text": "nan",
+    "rpt_id": "200",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "360",
+    "t_industry_no": "7",
+    "t_industry_text": "nan",
+    "rpt_id": "200",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "361",
+    "t_industry_no": "8",
+    "t_industry_text": "nan",
+    "rpt_id": "200",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "362",
+    "t_industry_no": "9",
+    "t_industry_text": "nan",
+    "rpt_id": "200",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "363",
+    "t_industry_no": "10",
+    "t_industry_text": "nan",
+    "rpt_id": "200",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "364",
+    "t_industry_no": "11",
+    "t_industry_text": "nan",
+    "rpt_id": "200",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "365",
+    "t_industry_no": "12",
+    "t_industry_text": "nan",
+    "rpt_id": "200",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "373",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "201",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "374",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "201",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "375",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักร อุปกรณ์ขนส่ง และอุตสาหกรรมยานยนต์สมัยใหม่",
+    "rpt_id": "201",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "376",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเครื่องใช้ไฟฟ้า และอุตสาหกรรมอิเล็กทรอนิกส์อัจฉริยะ",
+    "rpt_id": "201",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "377",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มบริหารและสาธารณูปโภค หรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "201",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "378",
+    "t_industry_no": "6",
+    "t_industry_text": "nan",
+    "rpt_id": "201",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "379",
+    "t_industry_no": "7",
+    "t_industry_text": "nan",
+    "rpt_id": "201",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "380",
+    "t_industry_no": "8",
+    "t_industry_text": "nan",
+    "rpt_id": "201",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "381",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมผลิตผลิตภัณฑ์โลหะ เครื่องจักร และอุปกรณ์ขนส่ง",
+    "rpt_id": "203",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "382",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "203",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "383",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมเบา",
+    "rpt_id": "203",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "384",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมบริการ",
+    "rpt_id": "203",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "385",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมเกี่ยวกับการเกษตรและผลผลิตจากการเกษตรที่มีความต้องการใช้น้ำต่ำ",
+    "rpt_id": "203",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "386",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเพื่อประโยชน์ในการพัฒนาอุตสาหกรรมของประเทศไปสู่การใช้เทคโนโลยีขั้นสูง",
+    "rpt_id": "203",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "387",
+    "t_industry_no": "7",
+    "t_industry_text": "nan",
+    "rpt_id": "203",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "388",
+    "t_industry_no": "8",
+    "t_industry_text": "nan",
+    "rpt_id": "203",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "366",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "204",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "367",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นมูลฐาน",
+    "rpt_id": "204",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "368",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "204",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "369",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "204",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "370",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "204",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "371",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษและพลาสติก",
+    "rpt_id": "204",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "372",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภค",
+    "rpt_id": "204",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "389",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมผลิตชิ้นส่วนยานยนต์ และอุตสาหกรรมต่อเนื่อง",
+    "rpt_id": "205",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "390",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์",
+    "rpt_id": "205",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "391",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมเหล็กขั้นกลางและขั้นปลาย",
+    "rpt_id": "205",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "392",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "205",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "393",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมผลิตภัณฑ์ยางขั้นปลาย",
+    "rpt_id": "205",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "394",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมสนับสนุนการผลิต",
+    "rpt_id": "205",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "395",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "206",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "396",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นกลาง / ปลาย",
+    "rpt_id": "206",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "397",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นกลาง / ปลาย",
+    "rpt_id": "206",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "398",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "206",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "399",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "206",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "400",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "206",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "401",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษและพลาสติก",
+    "rpt_id": "206",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "402",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มสาธารณูปโภค",
+    "rpt_id": "206",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "403",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตชิ้นส่วนและประกอบรถยนต์",
+    "rpt_id": "207",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "404",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตและประกอบอุปกรณ์อิเล็กทรอนิกส์-ไฟฟ้า",
+    "rpt_id": "207",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "405",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตโลหะ-เครื่องจักร",
+    "rpt_id": "207",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "406",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเกี่ยวกับอาหารและบรรจุภัณฑ์",
+    "rpt_id": "207",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "407",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตสิ่งทอ-เส้นใย-ผ้า",
+    "rpt_id": "207",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "408",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "207",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "409",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มอุตสาหกรรมสนับสนุนการผลิต",
+    "rpt_id": "207",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "438",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสากรรมผลิตชิ้นส่วนยานพาหนะและประกอบรถยนต์",
+    "rpt_id": "211",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "439",
+    "t_industry_no": "2",
+    "t_industry_text": "อุุตสาหกรรมอิเล็กทรอนิกส์",
+    "rpt_id": "211",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "440",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมเหล็กขั้นกลางและปลาย",
+    "rpt_id": "211",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "441",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "211",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "442",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมสนับสนุนการผลิต",
+    "rpt_id": "211",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "443",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมีขั้นต้น",
+    "rpt_id": "212",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "444",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมีขั้นกลาง",
+    "rpt_id": "212",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "445",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมีขั้นปลาย",
+    "rpt_id": "212",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "446",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมผลิต ประกอบ ดัดแปลง ซ่อมแซมแผงวงจรและชั้นส่วนอุปกรณ์อิเล็กทรอนิกส์",
+    "rpt_id": "212",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "447",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมผลิิดเหล็กในขั้นกลางและขั้นปลาย",
+    "rpt_id": "212",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "448",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมผลิตชั้นส่วนและประกอบรถยนต์",
+    "rpt_id": "212",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "449",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมที่ทำหน้าที่ส่งเสริมการผลิต",
+    "rpt_id": "212",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "450",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมผลิตชั้นส่วนยานยนต์และประกอบรถยนต์",
+    "rpt_id": "213",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "451",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "213",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "452",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "213",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "453",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมเหล็กและโลหะ เครื่องจักรและอุปกรณ์",
+    "rpt_id": "213",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "454",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมเคมีภัณฑ์/ผลิตภัณฑ์ปิโตรเคมีขั้นกลางและขั้นปลาย",
+    "rpt_id": "213",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "455",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมผลิตยา เครื่องสำอาง ผลิตภัณฑ์ดูแลสุขภาพ",
+    "rpt_id": "213",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "456",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมเกี่ยวกับอาหารและบรรจุภัณฑ์",
+    "rpt_id": "213",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "457",
+    "t_industry_no": "8",
+    "t_industry_text": "อุตสาหกรรมแปรรูปผลิตภัณฑ์เชิงนวัตกรรม",
+    "rpt_id": "213",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "458",
+    "t_industry_no": "9",
+    "t_industry_text": "อุตสาหกรรมเบา",
+    "rpt_id": "213",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "459",
+    "t_industry_no": "10",
+    "t_industry_text": "อุตสาหกรรมสนับสนุนการผลิต เช่น โรงงานไฟฟ้า (ยกเว้น โรงงานไฟฟ้านิวเคลียร์ โรงงานไฟฟ้าถ่านหิน และโรงงานไฟฟ้าชีวมวล)",
+    "rpt_id": "213",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "460",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมผลิตชั้นส่วนยานยนต์และประกอบรถยนต์",
+    "rpt_id": "214",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "461",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "214",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "462",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "214",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "463",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมเหล็กขั้นกลางและขั้นปลาย",
+    "rpt_id": "214",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "464",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมที่ส่งเสริมหรือสนับสนุนการผลิตที่มีระบบป้องกันมลสารและเทคโนโลยีที่เลือกใช้ต้องเหมาะสม",
+    "rpt_id": "214",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "465",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมผลิตชั้นส่วนยานยนต์และประกอบรถยนต์",
+    "rpt_id": "215",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "466",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "215",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "467",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "215",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "468",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมเหล็กขั้นกลางและขั้นปลาย",
+    "rpt_id": "215",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "469",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมสนับสนุนการผลิตชิ้นส่วนยานยนต์และประกอบรถยนต์",
+    "rpt_id": "215",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "470",
+    "t_industry_no": "6",
+    "t_industry_text": "โรงไฟฟ้าพลังงานความร้อนร่วมที่ใช้ก๊าซธรรมชาติเป็นเชื้อเพลิง ขนาด 130MW จำนวน 1 โรง เพื่อผลิตกระแสไฟฟ้าและไอน้ำจำหน่ายให้กับผู้ประกอบการภายในโครงการ",
+    "rpt_id": "215",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "471",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตชิ้นส่วนยานยนต์และประกอบรถยนต์",
+    "rpt_id": "216",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "472",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์",
+    "rpt_id": "216",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "473",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเหล็กขั้นกลางและขั้นปลาย",
+    "rpt_id": "216",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "474",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "216",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "475",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมสนับสนุนการผลิต",
+    "rpt_id": "216",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "476",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตไฟฟ้าและไอน้ำที่ใช้ก๊าซธรรมชาติเป็นเชื้อเพลิง",
+    "rpt_id": "216",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "477",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มอุตสาหกรรมพิเศษที่มีความต้องการใช้น้ำสูงกว่ากลุ่มอุตสาหกรรมทั่วไป (i.โรงงานผลิตโซล่าเซลล์, ii.อุตสาหกรรมอาหารและเครื่องดื่ม ได้แก่ โรงงานผลิตอาหารกระป๋อง โรงงานผลิตน้ำดื่มและน้ำอัดลม และโรงงานผลิตเครื่องปรุงรส หรือเครื่องประกอบอาหาร, iii.โรงงานผลิต เคมีภัณฑ์ได้แก่ โรงงานผลิตกาว และ iv.กิจการศูนย์ข้อมูล (Data Centre))",
+    "rpt_id": "216",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "478",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเป้าหมายตามพระราชบัญญัติเขตพัฒนาพิเศษภาคตะวันออก (i.อุตสาหกรรมยานยนต์สมัยใหม่, ii.อุตสาหกรรมอิเล็กทรอนิกส์อัจฉริยะ, iii.อุตสาหกรรมการเกษตรและเทคโนโลยีชีวภาพ, iv.อุตสาหกรรมแปรรูปอาหาร, v.อุตสาหกรรมการท่องเที่ยวกลุามรายได้ดีและการท่องเที่ยวเชิงสุขภาพ, vi.อุตสาหกรรมหุ่นยนต์, vii.อุตสาหกรรมการบินและโลจิสติกส์, viii.อุตสาหกรรมการแพทย์ครบวงจร, ix.อุตสาหกรรมเชื้อเพลิงชีวภาพและเคมีชีวภาพ, x.อุตสาหกรรมดิจิทัล)",
+    "rpt_id": "216",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "479",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเป้าหมายตามพระราชบัญญัติเขตพัฒนาพิเศษภาคตะวันออก",
+    "rpt_id": "217",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "480",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมผลิตชิ้นส่วนยานยนต์และประกอบรถยนต์",
+    "rpt_id": "217",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "481",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "217",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "482",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมสนับสนุนการผลิต เช่น อุตสาหกรรมการจำหน่ายก๊าซ อุตสาหกรรมผลิตน้ำเพื่อการอุตสาหกรรม อุตสาหกรรมการขนส่งและเก็บวัสดุ (Logistics) เป็นต้น",
+    "rpt_id": "217",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "483",
+    "t_industry_no": "5",
+    "t_industry_text": "โรงไฟฟ้าพลังงานความร้อนร่วมที่ใช้ก๊าซธรรมชาติ",
+    "rpt_id": "217",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "484",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "217",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "485",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมเหล็กขั้นกลางและปลาย",
+    "rpt_id": "217",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "486",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "219",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "487",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มผลิคภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "219",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "488",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "219",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "489",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มสาธารณูปโภค",
+    "rpt_id": "219",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "490",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมประกอบเครื่องใช้ไฟฟ้า / อิเล็กทรอนิกส์",
+    "rpt_id": "220",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "491",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมประกอบรถยนต์",
+    "rpt_id": "220",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "492",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมสิ่งทอ",
+    "rpt_id": "220",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "493",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมี",
+    "rpt_id": "220",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "494",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมอึ่นๆ ที่ไม่เข้าข่ายอุตสาหกรรม 50 ประเภท",
+    "rpt_id": "220",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "495",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์ เครื่องใช้ไฟฟ้าและชิ้นส่วน",
+    "rpt_id": "221",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "496",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุุตสาหกรรมยานยนต์และอากาศยาน ยานยนต์ไฟฟ้า ยานยนต์พลังงานทางเลือก รวมถึงการผลิตชิ้นส่วนยานยนต์ ผลิตภัณฑ์โลหะแปรรูปและการผลิตวัตถุดิบที่ใช้ในการผลิตในอุตสาหกรรมยานยนต์",
+    "rpt_id": "221",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "497",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมพลังงานทางเลือก เช่น พลังงานแสงอาทิตย์ และพลังงานลม เป็นต้น และการผลิตวัตถุดิบที่ใช้ในการผลิตพลังงานทางเลือก",
+    "rpt_id": "221",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "498",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมแปรรูปเกษตรและผลิตภัณฑ์พลาสติกชีวภาพ",
+    "rpt_id": "221",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "499",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเซรามิกส์ และกลุ่มอุตสาหกรรมผลิตชิ้นส่วนเหล็กทุบ การทุบโลหะที่มิใช่เหล็ก การตัดโลหะ การทำแม่พิมพ์โลหะ รวมถึงกระบวนการผลิตในอุตสาหกรรมเหล็กขั้นปลาย เช่น การอบอ่อน การทำความสะอาดผิวเหล็ก การขึ้นรูป และการตกแต่งผิว เป็นต้น",
+    "rpt_id": "221",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "500",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเคมี พลาสติกที่ไม่เป็นอุตสาหกรรมปิโตรเคมี และอุตสาหกรรมกระดาษ",
+    "rpt_id": "221",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "501",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา เช่น การผลิตเครื่องมือและอุปกรณ์การแพทย์ ผิตภัณฑ์สิ่งทอหรือชิ้นส่วน เป็นต้น",
+    "rpt_id": "221",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "502",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมบริการและสาธารณูปโภค เช่น การวิจัยและพัฒนาศูนย์ข้อมูล (Data Centre) ศูนย์บริการด้านเครื่องมือ เครื่องใช้และห้องทดลอง โลจิสติกส์ เป็นต้น",
+    "rpt_id": "221",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "503",
+    "t_industry_no": "9",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการแพทย์ครบวงจร เช่น การผลิตอุปกรณ์ทางการแพทย์จากพื้นฐานด้านอิเล็กทรอนิกส์และโทรคมนาคม และอุตสาหกรรมเวชภัณฑ์จากพื้นฐานด้านการเกษตรและเคมีชีวภาพ อุตสาหกรรม เป็นต้น",
+    "rpt_id": "221",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "504",
+    "t_industry_no": "1",
+    "t_industry_text": "ประเภทอุตสาหกรรมเบา (i.อุตสาหกรรมสิ่งถักและสิ่งทอ, ii.อุตสาหกรรมเครื่องแต่งกาย, iii.อุตสาหกรรมแปรรูปไม้และผลิตภัณฑ์จากไม้, iv.อุตสาหกรรมผลิตภัณฑ์กระดาษ, v.อุตสาหกรรมพลาสติก, vi.คลังสินค้า, vii.ศูนย์กระจายสินค้า (***ต้องไม่มีโลหะหนักเจือปนในน้ำเสีย))",
+    "rpt_id": "222",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "505",
+    "t_industry_no": "2",
+    "t_industry_text": "โรงไฟฟ้าที่ใช้ก๊าซธรรมชาติเป็นเชื้อเพลิง",
+    "rpt_id": "222",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "506",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมยาง / พลาสติก / หนังเทียม",
+    "rpt_id": "223",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "507",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมอุปกรณ์ไฟฟ้าอิเล็กทรอนิกส์ / เครื่องมือวิทยาศาสาตร์",
+    "rpt_id": "223",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "508",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมการะดาษ / สิ่งพิมพ์ / อาหาร",
+    "rpt_id": "223",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "509",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมอุื่นที่เกี่ยวเนื่องกับการประกอบอุตสาหกรรม (คลังสินค้าให้เช่าอาคารโรงงาน)",
+    "rpt_id": "223",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "510",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมปุ๋ย / สี / เคมี",
+    "rpt_id": "223",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "511",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมเหล็กและผลิตภัณฑ์โลหะ",
+    "rpt_id": "223",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "512",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตสิ่งทอ / เส้นใย / เครื่องหนัง / เครื่องแต่งกาย",
+    "rpt_id": "223",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "513",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรและผลผลิตผลจากการเกษตร",
+    "rpt_id": "224",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "514",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นมูลฐาน",
+    "rpt_id": "224",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "515",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "224",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "516",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "224",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "517",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์เครื่องใช้ไฟฟ้า",
+    "rpt_id": "224",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "518",
+    "t_industry_no": "6",
+    "t_industry_text": "เคมีภัณฑ์ กระดาษและพลาสติก",
+    "rpt_id": "224",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "519",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภค",
+    "rpt_id": "224",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "520",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มกเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "225",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "521",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นกลาง / ปลาย",
+    "rpt_id": "225",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "522",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "225",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "523",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "225",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "524",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตาสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "225",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "525",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษและพลาสติก",
+    "rpt_id": "225",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "526",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภคหรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "225",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "527",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "226",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "528",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "226",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "529",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "226",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "530",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์",
+    "rpt_id": "226",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "531",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภคหรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "226",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "532",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเคมีภัณฑ์ พลาสติก และกระดาษ",
+    "rpt_id": "226",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "533",
+    "t_industry_no": "7",
+    "t_industry_text": "โรงไฟฟ้าพลังงานความร้อนที่ใช้ก๊าซธรรมชาติเป็นเชื้อเพลิง",
+    "rpt_id": "226",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "534",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมที่ได้รับการส่งเสริมตามโครงการพัฒนาระเบียงเศรษฐกิจพิเศษภาคตะวันออก",
+    "rpt_id": "226",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "535",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "227",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "536",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "227",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "537",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "227",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "538",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์",
+    "rpt_id": "227",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "539",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภคหรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "227",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "540",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเคมีภัณฑ์ พลาสติก และกระดาษ",
+    "rpt_id": "227",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "541",
+    "t_industry_no": "7",
+    "t_industry_text": "โรงไฟฟ้าพลังงานความร้อนที่ใช้ก๊าซธรรมชาติเป็นเชื้อเพลิง",
+    "rpt_id": "227",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "542",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมที่ได้รับการส่งเสริมตามโครงการพัฒนาระเบียงเศรษฐกิจพิเศษภาคตะวันออก (i.กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร, ii.กลุ่มอุตสาหกรรมเบา, iii.กลุ่มผลิตภัณฑ์โลหะ เครื่องจักร และอุปกรณ์ขนส่ง, iv.กลุ่มอุตสาหกรรมเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์, v.กลุ่มอุตสาหกรรมเคมัภัณฑ์ พลาสติก และกระดาษ, vi.กลุ่มอุตสาหกรรมกิจการบริการและสาธารณูปโภค)",
+    "rpt_id": "227",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "543",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "228",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "544",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มแร่ เซรามิก และโลหะขั้นมูลฐาน",
+    "rpt_id": "228",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "545",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "228",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "546",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ที่เกี่ยวข้อง",
+    "rpt_id": "228",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "547",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์",
+    "rpt_id": "228",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "548",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเคมีภัณฑ์ พลาสติก และกระดาษ",
+    "rpt_id": "228",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "549",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริหารและสาธารณูปโภค",
+    "rpt_id": "228",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "550",
+    "t_industry_no": "8",
+    "t_industry_text": "การพัฒนาเทคโนโลยีและนวัตกรรม",
+    "rpt_id": "228",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "551",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตหรือประกอบชิ้นส่วนรถยนต์เป็นการผลิตอะไหล่ทั่วไปที่ใช้ในอุตสาหกรรมรถยนต์และเครื่องปรับอากาศภายในรถยนต์",
+    "rpt_id": "229",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "552",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมแปรรูปและขึ้นรูปโลหะ เป็นอุตสาหกรรมหลักในการผลิตชิ้นส่วนโลหะเพื่อเป็นวัตถุดิบในอุตสาหกรรมประเภทอื่นๆ",
+    "rpt_id": "229",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "553",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุุตสาหกรรมแปรรูปพลาสติก เป็นการผลิตขึ้นรูปพลาสติก เพื่อใช้เป็นส่วนประกอบของวัตถุดิบประเภทอื่นๆ",
+    "rpt_id": "229",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "554",
+    "t_industry_no": "4",
+    "t_industry_text": "ประเภทคลังสินค้า, ศูนย์กระจายสินค้า, Logisticเป็นพื้นที่รองรับการขยายตัวทางด้านการนำเข้าหรือส่งออกสินค้า",
+    "rpt_id": "229",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "555",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมประกอบอุปกรณ์เครื่องใช้ไฟฟ้าและอิเล็กทรอนิคส์",
+    "rpt_id": "229",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "556",
+    "t_industry_no": "6",
+    "t_industry_text": "อุุตสาหกรรมทั่วไปอื่นๆ ที่ไม่เข้าข่ายอุตสาหกรรมทั้ง 5 ประเภท และต้องสอดคล้องกับหลักเกณฑ์การคัดเลือกโดยไม่ก่อให้เกิดผลกระทบใดๆ พร้อมทั้งผ่านการพิจารณาจาก กนอ.",
+    "rpt_id": "229",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "557",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรและผลิตผลการเกษตร",
+    "rpt_id": "230",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "558",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มแร่ เซรามิก และโลหะขั้นกลางและขั้นปลาย",
+    "rpt_id": "230",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "559",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "230",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "560",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักร และอุปกรณ์ขนส่ง",
+    "rpt_id": "230",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "561",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มเครื่องใช้ไฟฟ้า และอิเล็กทรอนิกส์",
+    "rpt_id": "230",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "562",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรม เคมีภัณฑ์ พลาสติก และกระดาษ",
+    "rpt_id": "230",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "563",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภค หรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "230",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "564",
+    "t_industry_no": "8",
+    "t_industry_text": "การพัฒนา เทคโนโลยี และนวัตกรรม",
+    "rpt_id": "230",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "565",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมการพิมพ์และบรรจุภัณฑ์",
+    "rpt_id": "231",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "566",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "231",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "567",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเคมีภัณฑ์ กระดาษและพลาสติก",
+    "rpt_id": "231",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "568",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "231",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "569",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมสาธารณูปโภค",
+    "rpt_id": "231",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "626",
+    "t_industry_no": "1",
+    "t_industry_text": "ศูนย์รวบรวมและกระจายสินค้า",
+    "rpt_id": "232",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "627",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "232",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "628",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตชิ้นส่วนยานพาหนะและประกอบรถยนต์",
+    "rpt_id": "232",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "629",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มเกษตรอุตสาหกรรม",
+    "rpt_id": "232",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "630",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมสิ่งทอที่ไม่ใช่ฟอกย้อม",
+    "rpt_id": "232",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "631",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบาและอุตสาหกรรมบริการ",
+    "rpt_id": "232",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "632",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเคมีภัณฑ์ กระดาษและพลาสติก (เฉพาะบรรจุภัณฑ์)",
+    "rpt_id": "232",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "633",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตเครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "232",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "570",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเกษตรกรรมและผลผลิตจากการเกษตร",
+    "rpt_id": "233",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "571",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกส์และโลหะขั้นกลาง / ขั้นปลาย",
+    "rpt_id": "233",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "572",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "233",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "573",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตภัณฑ์โลหะ เครื่องจักร และอุปกรณ์ขนส่ง",
+    "rpt_id": "233",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "574",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมยานยนต์สมัยใหม่",
+    "rpt_id": "233",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "575",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์",
+    "rpt_id": "233",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "576",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภคหรืออุตสาหกรรมสนับสนุน",
+    "rpt_id": "233",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "577",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเคมีภัณฑ์ พลาสติก และกระดาษ",
+    "rpt_id": "233",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "578",
+    "t_industry_no": "9",
+    "t_industry_text": "โรงไฟฟ้าพลังงานความร้อนที่ใช้ก๊าซธรรมชาติเป็นเชื้อเพลิง ขนาด 140 MW",
+    "rpt_id": "233",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "619",
+    "t_industry_no": "1",
+    "t_industry_text": "โรงแยกก๊าซธรรมชาติ",
+    "rpt_id": "234",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "620",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมปิโตรเคมีที่ใช้วัตถุดิบซึ่งได้จากการกลั่นน้ำมันปิโตรเลียมหรือการแยกก๊าซธรรมชาติ",
+    "rpt_id": "234",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "621",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมปิโตรเคมีขั้นกลาง",
+    "rpt_id": "234",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "622",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมปิโตรเคมีขั้นปลาย",
+    "rpt_id": "234",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "623",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมผลิตเหล็กในขั้นกลาง และขั้นปลาย",
+    "rpt_id": "234",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "624",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมผลิตชิ้นส่วนรถยนต์",
+    "rpt_id": "234",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "625",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมที่ส่งเสริม และสนับสนุนการผลิต และโรงงานที่ไม่เข้าข่ายโรงงานที่ห้ามตั้งที่มีระบบป้องกันมลสารและเทคโนโลยีที่เลือกใช้ต้องเหมาะสม โรยไม่มีการระบายมลสารเกินเกณฑ์ที่กำหนดไว้ในมาตราการป้องกันและแก้ไขผลกระทบสิ่งแวดล้อมของนิคมฯ",
+    "rpt_id": "234",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "579",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "235",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "580",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นมูลฐาน",
+    "rpt_id": "235",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "581",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "235",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "582",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "235",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "583",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "235",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "584",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษ และพลาสติก",
+    "rpt_id": "235",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "585",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภค",
+    "rpt_id": "235",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "614",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมผลิตโลหะ เครื่องจักร และอุปกรณ์ขนส่ง",
+    "rpt_id": "236",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "615",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "236",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "616",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมเบา",
+    "rpt_id": "236",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "617",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมเกี่ยวกับการเกษตร",
+    "rpt_id": "236",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "618",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมบริการ",
+    "rpt_id": "236",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "586",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลิตผลจากการเกษตร",
+    "rpt_id": "238",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "587",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา (ผลิตภัณฑ์สิ่งทอและเครื่องนุ่งห่ม, ผลิตภัณฑ์เครื่องมือวิทยาศาสตร์, ผลิตเวชภัณฑ์หรืออุปกรณ์ทางการแพทย์, ผลิตภัณฑ์อุปกรณ์กีฬาหรือชิ้นส่วนผลิตเครื่องเรือนหรือชิ้นส่วน, ผลิตเกี่ยวกับอุตสาหกรรมอัญมณีและเครื่องประดับ, ผลิตภัณฑ์จากหนังสัตว์หรือหนังเทียม, ผลิตรองเท้าหรือชิ้นส่วน, ผลิตกระเป๋าหรือชิ้นส่วน)",
+    "rpt_id": "238",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "588",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง (ผลิตเครื่องมือช่าง และเครื่องมือวัด, ผลิตเครื่องจักรและอุปกรณณ์, ผลิตผลิตภัณฑ์ รวมทั้งชิ้นส่วนโลหะ, ผลิตชิ้นส่วนยานพาหนะ)",
+    "rpt_id": "238",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "589",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า (ผลิตเครื่องใช้ไฟฟ้า, ผลิตเครื่องมือ เครื่องใช้ในครัวเรือน, ผลิตผลิตภันฑ์อิเล็กทรอนิกส์)",
+    "rpt_id": "238",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "590",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษ และพลาสติก (ผลิตเคมีภัณฑ์ ทั้งประเภทที่มีและไม่มีปฏิกริยาเคมีเข้ามาเกี่ยวข้องในกระบวนการผลิตด้วยพลาสติก, ผลิตผลิตภัณฑ์พลาสติก หรือเคลือบ, ผลิตกระดาษ, ผลิตสิ่งปรุงแต่งสำหรับประทินร่างกาย)",
+    "rpt_id": "238",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "591",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภค (การประปาหรือน้ำเพื่ออุตสาหกรรม, โกดังเก็บสินค้าและโรงงานให้เช่า)",
+    "rpt_id": "238",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "592",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นมูลฐาน (ผลิตแก้วหรือผลิตภัณฑ์จากแก้ว, ผลิตเกี่ยวกับเหล็ก, ผลิตกระเบื้อง, ผลิตแผ่นยิบซัม)",
+    "rpt_id": "238",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "593",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลผลิตจากการเกษตร",
+    "rpt_id": "239",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "594",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นกลาง / ปลาย",
+    "rpt_id": "239",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "595",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "239",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "596",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "239",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "597",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "239",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "598",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษและพลาสติก",
+    "rpt_id": "239",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "599",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภค",
+    "rpt_id": "239",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "609",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอาหารทะเลโดยเฉพาะกุ้ง",
+    "rpt_id": "240",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "610",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมไก่เนื้อ",
+    "rpt_id": "240",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "611",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมแปรรูปเนื้อสัตว์จากปศุสัตว์ เช่น แพะ แกะ และ โค",
+    "rpt_id": "240",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "612",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมที่ไม่เข้าข่ายในโครงการนิคมอุตสาหกรรมอาหารฮาลาล",
+    "rpt_id": "240",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "613",
+    "t_industry_no": "5",
+    "t_industry_text": "ต้องมีการจัดระบบขนส่งวัตถุดิบและผลิตภัณฑ์อาหารฮาลาลที่ผ่านเข้า-ออกในนิคมอุตสาหกรรมว่ามีความถูกต้องตามหลักศาสนาอิสลาม",
+    "rpt_id": "240",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "600",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มเกษตรกรรมและผลผลิตจากการเกษตร",
+    "rpt_id": "241",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "601",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มเซรามิกและโลหะขั้นกลาง / ปลาย",
+    "rpt_id": "241",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "602",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "241",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "603",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มผลิตภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "241",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "604",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "241",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "605",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มเคมีภัณฑ์ กระดาษและพลาสติก",
+    "rpt_id": "241",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "606",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มบริการสาธารณูปโภค",
+    "rpt_id": "241",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "607",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตเชื้อเพลิงขยะ (เชื้อเพลิง RDF)",
+    "rpt_id": "241",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "608",
+    "t_industry_no": "9",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตแบตเตอรี่สำหรับรถยนต์ Hybrid, Battery Electric Vehicles(BEV) และ Plug-in Hybrid Electric Vehicles (PHEV) เช่น ลิเทียมไอออน (Lithium ion battery) เป็นต้น",
+    "rpt_id": "241",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "634",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมีขั้นต้น",
+    "rpt_id": "244",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "635",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมีขั้นกลาง",
+    "rpt_id": "244",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "636",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมีขั้นกลาง",
+    "rpt_id": "244",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "637",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมปิโตรเคมีขั้นปลาย",
+    "rpt_id": "244",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "638",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมผลิต ประกอบ ดัดแปลง ซ่อมแซมแผงวงจรและชั้นส่วนอุปกรณ์อิเล็กทรอนิกส์",
+    "rpt_id": "244",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "639",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมผลิตเหล็กในขั้นกลางและขั้นปลาย",
+    "rpt_id": "244",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "640",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมผลิตชั้นส่วนและประกอบรถยนต์",
+    "rpt_id": "244",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "641",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมที่ทำหน้าที่ส่งเสริมการผลิต",
+    "rpt_id": "244",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "642",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมผลิตชั้นส่วนยานยนต์และประกอบรถยนต์",
+    "rpt_id": "245",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "643",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "245",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "644",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "245",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "645",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมเหล็กและโลหะ เครื่องจักรและอุปกรณ์",
+    "rpt_id": "245",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "646",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมเคมีภัณฑ์/ผลิตภัณฑ์ปิโตรเคมีขั้นกลางและขั้นปลาย",
+    "rpt_id": "245",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "647",
+    "t_industry_no": "6",
+    "t_industry_text": "อุตสาหกรรมผลิตยา เครื่องสำอาง ผลิตภัณฑ์ดูแลสุขภาพ",
+    "rpt_id": "245",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "648",
+    "t_industry_no": "7",
+    "t_industry_text": "อุตสาหกรรมเกี่ยวกับอาหารและบรรจุภัณฑ์",
+    "rpt_id": "245",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "649",
+    "t_industry_no": "8",
+    "t_industry_text": "อุตสาหกรรมแปรรูปผลิตภัณฑ์เชิงนวัตกรรม",
+    "rpt_id": "245",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "650",
+    "t_industry_no": "9",
+    "t_industry_text": "อุตสาหกรรมเบา",
+    "rpt_id": "245",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "651",
+    "t_industry_no": "10",
+    "t_industry_text": "อุตสาหกรรมสนับสนุนการผลิต เช่น โรงงานไฟฟ้า (ยกเว้น โรงงานไฟฟ้านิวเคลียร์ โรงงานไฟฟ้าถ่านหิน และโรงงานไฟฟ้าชีวมวล)",
+    "rpt_id": "245",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "652",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมผลิตชั้นส่วนยานยนต์และประกอบรถยนต์",
+    "rpt_id": "246",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "653",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "246",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "654",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "246",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "655",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมเหล็กขั้นกลางและขั้นปลาย",
+    "rpt_id": "246",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "656",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมที่ส่งเสริมหรือสนับสนุนการผลิตที่มีระบบป้องกันมลสารและเทคโนโลยีที่เลือกใช้ต้องเหมาะสม",
+    "rpt_id": "246",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "657",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสาหกรรมผลิตชั้นส่วนยานยนต์และประกอบรถยนต์",
+    "rpt_id": "247",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "658",
+    "t_industry_no": "2",
+    "t_industry_text": "อุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "247",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "659",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "247",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "660",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมเหล็กขั้นกลางและขั้นปลาย",
+    "rpt_id": "247",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "661",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมสนับสนุนการผลิตชิ้นส่วนยานยนต์และประกอบรถยนต์",
+    "rpt_id": "247",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "662",
+    "t_industry_no": "6",
+    "t_industry_text": "โรงไฟฟ้าพลังงานความร้อนร่วมที่ใช้ก๊าซธรรมชาติเป็นเชื้อเพลิง ขนาด 130MW จำนวน 1 โรง เพื่อผลิตกระแสไฟฟ้าและไอน้ำจำหน่ายให้กับผู้ประกอบการภายในโครงการ",
+    "rpt_id": "247",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "663",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตชิ้นส่วนยานยนต์และประกอบรถยนต์",
+    "rpt_id": "248",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "664",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์",
+    "rpt_id": "248",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "665",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเหล็กขั้นกลางและขั้นปลาย",
+    "rpt_id": "248",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "666",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "248",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "667",
+    "t_industry_no": "5",
+    "t_industry_text": "กลุ่มอุตสาหกรรมสนับสนุนการผลิต",
+    "rpt_id": "248",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "668",
+    "t_industry_no": "6",
+    "t_industry_text": "กลุ่มอุตสาหกรรมผลิตไฟฟ้าและไอน้ำที่ใช้ก๊าซธรรมชาติเป็นเชื้อเพลิง",
+    "rpt_id": "248",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "669",
+    "t_industry_no": "7",
+    "t_industry_text": "กลุ่มอุตสาหกรรมพิเศษที่มีความต้องการใช้น้ำสูงกว่ากลุ่มอุตสาหกรรมทั่วไป (i.โรงงานผลิตโซล่าเซลล์, ii.อุตสาหกรรมอาหารและเครื่องดื่ม ได้แก่ โรงงานผลิตอาหารกระป๋อง โรงงานผลิตน้ำดื่มและน้ำอัดลม และโรงงานผลิตเครื่องปรุงรส หรือเครื่องประกอบอาหาร, iii.โรงงานผลิต เคมีภัณฑ์ได้แก่ โรงงานผลิตกาว และ iv.กิจการศูนย์ข้อมูล (Data Centre))",
+    "rpt_id": "248",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "670",
+    "t_industry_no": "8",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเป้าหมายตามพระราชบัญญัติเขตพัฒนาพิเศษภาคตะวันออก (i.อุตสาหกรรมยานยนต์สมัยใหม่, ii.อุตสาหกรรมอิเล็กทรอนิกส์อัจฉริยะ, iii.อุตสาหกรรมการเกษตรและเทคโนโลยีชีวภาพ, iv.อุตสาหกรรมแปรรูปอาหาร, v.อุตสาหกรรมการท่องเที่ยวกลุามรายได้ดีและการท่องเที่ยวเชิงสุขภาพ, vi.อุตสาหกรรมหุ่นยนต์, vii.อุตสาหกรรมการบินและโลจิสติกส์, viii.อุตสาหกรรมการแพทย์ครบวงจร, ix.อุตสาหกรรมเชื้อเพลิงชีวภาพและเคมีชีวภาพ, x.อุตสาหกรรมดิจิทัล)",
+    "rpt_id": "248",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "671",
+    "t_industry_no": "1",
+    "t_industry_text": "อุตสากรรมผลิตชิ้นส่วนยานพาหนะและประกอบรถยนต์",
+    "rpt_id": "250",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "672",
+    "t_industry_no": "2",
+    "t_industry_text": "อุุตสาหกรรมอิเล็กทรอนิกส์",
+    "rpt_id": "250",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "673",
+    "t_industry_no": "3",
+    "t_industry_text": "อุตสาหกรรมเหล็กขั้นกลางและปลาย",
+    "rpt_id": "250",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "674",
+    "t_industry_no": "4",
+    "t_industry_text": "อุตสาหกรรมผลิตวัสดุก่อสร้าง",
+    "rpt_id": "250",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "675",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมสนับสนุนการผลิต",
+    "rpt_id": "250",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "676",
+    "t_industry_no": "5",
+    "t_industry_text": "อุตสาหกรรมสนับสนุนการผลิต",
+    "rpt_id": "250",
+    "record_status": "D"
+  },
+  {
+    "t_industry_id": "677",
+    "t_industry_no": "1",
+    "t_industry_text": "กลุ่มอุตสาหกรรมเบา",
+    "rpt_id": "254",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "678",
+    "t_industry_no": "2",
+    "t_industry_text": "กลุ่มผลิคภัณฑ์โลหะ เครื่องจักรและอุปกรณ์ขนส่ง",
+    "rpt_id": "254",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "679",
+    "t_industry_no": "3",
+    "t_industry_text": "กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+    "rpt_id": "254",
+    "record_status": "N"
+  },
+  {
+    "t_industry_id": "680",
+    "t_industry_no": "4",
+    "t_industry_text": "กลุ่มสาธารณูปโภค",
+    "rpt_id": "254",
+    "record_status": "N"
+  }
+]

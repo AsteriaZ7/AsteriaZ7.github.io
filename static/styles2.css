@@ -1,0 +1,116 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    background: linear-gradient(to bottom, #f0e4fa, #f8e9ff);
+}
+
+header {
+    background: linear-gradient(to right, white, #d1c4e9, #4a148c);
+    padding: 10px 20px;
+    color: #333;
+    
+}
+
+.logo-section {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 50px;
+    margin-right: 15px;
+}
+
+.title h1 {
+    margin: 0;
+    font-size: 16px;
+    color: #4a148c;
+}
+
+.title p {
+    margin: 0;
+    font-size: 12px;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin-top: 10px;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.search-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto;
+    max-width: 500px;
+}
+
+.search-section input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 20px 0 0 20px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+.search-section button {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    background-color: white;
+    border-radius: 0 20px 20px 0;
+    cursor: pointer;
+}
+
+.results {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.result-card {
+    display: flex;
+    align-items: stretch;
+    max-width: 900px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+.result-card img {
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+}
+
+.result-card .info {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border-left: 1px solid #ccc;
+}
+
+.result-card .meta {
+    width: 150px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-left: 1px solid #ccc;
+    font-size: 12px;
+}

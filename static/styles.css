@@ -1,0 +1,365 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  background: #dc8de8;
+}
+
+header {
+  background: white;
+  padding: 10px 20px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.logo-bar {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.logo-bar img {
+  width: 60px;
+}
+
+.logo-bar .title p {
+  margin: 0;
+  font-size: 16px;
+  color: #333;
+  line-height: 1.4;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  color: #8e24aa;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  padding: 30px 15px;
+}
+
+.card {
+  background: white;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 800px;
+  padding: 20px 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+  background-color: #4a148c;
+  color: white;
+  font-size: 20px;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  border-radius: 4px 4px 0 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+}
+
+td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  vertical-align: top;
+}
+
+td:first-child {
+  background-color: #f5f5f5;
+  font-weight: bold;
+  width: 30%;
+}
+
+/* Search and dropdown filters */
+#filters {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.filter-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.search-container input,
+.dropdown-container select {
+  padding: 10px 15px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.search-container input {
+  width: 250px;
+}
+
+.dropdown-container select {
+  width: 180px;
+  appearance: none;
+  background-color: white;
+  background-image: url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%23666' stroke-width='1.5' fill='none' fill-rule='evenodd'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 12px;
+}
+
+.search-container input:focus,
+.dropdown-container select:focus {
+  border-color: #007BFF;
+  outline: none;
+  box-shadow: 0 0 6px rgba(0, 123, 255, 0.4);
+}
+
+/* Heading */
+.heading-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.heading-container h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.heading-container p {
+  font-size: 16px;
+  color: #555;
+}
+
+/* Estate list as 2-column grid */
+#estateList {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Always 2 columns on desktop */
+  gap: 20px 20px;
+  max-width: 1000px;
+  margin: auto;
+  padding: 0 20px; /* Prevents edge collision on wider screens too */
+}
+
+.estate-link small {
+  font-size: 15px;
+  color: #444;
+  line-height: 1.6;
+  display: block;
+}
+
+/* Clickable estate cards */
+#estateList li {
+  position: relative;
+}
+
+.estate-link {
+  display: block;
+  height: 70%;
+  padding: 20px;
+  color: inherit;
+  text-decoration: none;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.estate-link:hover {
+  transform: scale(1.02);
+}
+
+/* Estate code and name side-by-side */
+.estate-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.estate-code {
+  font-weight: bold;
+  color: #4b0082;
+  font-size: 18px;
+  white-space: nowrap;
+}
+
+.estate-name {
+  font-weight: bolder;
+  font-size: 16px;
+  color: #333;
+  flex: 1;
+}
+
+/* Chart container if used */
+#chartContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px auto;
+  max-width: 600px;
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #333;
+  background-color: #fff;
+  margin-top: 60px;
+  font-size: 14px;
+}
+
+.eia-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px 0;
+}
+
+.eia-card {
+  background-color: #f9f9ff;
+  border-left: 5px solid #6a5acd;
+  border-radius: 12px;
+  padding: 15px 20px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.06);
+  font-size: 15px;
+  line-height: 1.6;
+  transition: box-shadow 0.3s ease;
+}
+
+.eia-card:hover {
+  box-shadow: 0 4px 12px rgba(106, 90, 205, 0.2);
+}
+
+.eia-card p {
+  margin: 4px 0;
+  color: #333;
+}
+
+.eia-card strong {
+  color: #444;
+}
+
+.eia-empty {
+  text-align: center;
+  color: #999;
+  margin-top: 20px;
+  font-size: 16px;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  header, nav, .card, .section-title, table, #filters, footer {
+    padding: 10px;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .header-container,
+  .logo-bar,
+  nav,
+  .filter-inner {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .search-container input,
+  .dropdown-container select {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  #chartContainer,
+  #groupChartContainer {
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  canvas {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #estateList {
+    padding: 0 10px; /* Adds spacing on both sides */
+    margin: auto;
+    max-width: 100%;
+
+  }
+
+  .estate-link {
+    padding: 15px;
+  }
+
+  .estate-name {
+    font-size: 15px;
+  }
+
+  .estate-code {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 600px) {
+  #estateList {
+    grid-template-columns: 1fr; /* 👉 Single column on mobile */
+    padding: 0 20px; /* 👉 Spacing from screen edges */
+  }
+
+  .estate-link {
+    padding: 16px;
+  }
+
+  .estate-code {
+    font-size: 16px;
+  }
+
+  .estate-name {
+    font-size: 15px;
+  }
+  .section-title {
+  font-size: 16px;
+  padding: 8px 12px;
+  }
+
+  td {
+  font-size: 14px;
+  padding: 8px;
+  }
+
+  #chartContainer {
+  overflow-x: auto;
+  padding: 10px;
+  }
+
+  #hrPieChart {
+    min-width: 200px; /* This prevents it from shrinking unnaturally */
+  }
+
+
+}

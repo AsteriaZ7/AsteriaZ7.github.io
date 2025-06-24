@@ -1,0 +1,14 @@
+DONE
+1.สลับกราฟ pie chart
+2.เพิ่มว่านิคมมีรีพอร์ตอะไรบ้างแล้วใช้รีพอร์ตล่าสุดมาทำprohibitedกับtarget
+3.เพิ่มให้ขึ้นจำนวนโรงงาน
+
+UNFINISHED
+1.capacity_water_production
+capacity_reservoir
+capacity_waste_water_retreat
+"capacity_reservoir"
+"size_giz_avalilable": null,
+"size_ifz_avalilable": null,
+"size_cm_avalilable": null,
+"size_total_avalilable": 0.0,
